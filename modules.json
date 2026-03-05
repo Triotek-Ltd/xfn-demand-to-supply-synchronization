@@ -1,0 +1,32 @@
+[
+  {
+    "module_code": "xfn7_1",
+    "module_label": "XFN.7.1 - Forecast & Inventory Alignment",
+    "module_title": "Forecast & Inventory Alignment",
+    "module_slug": "forecast_and_inventory_alignment",
+    "app_code": "xfn7",
+    "app_label": "XFN 7 - Demand-to-Supply Synchronization",
+    "bundle_code": "xfn",
+    "source_md_path": "doc/rnd/plugs/xfn/xfn1.md"
+  },
+  {
+    "module_code": "xfn7_3",
+    "module_label": "XFN.7.3 - Shortage & Overstock Alerts",
+    "module_title": "Shortage & Overstock Alerts",
+    "module_slug": "shortage_and_overstock_alerts",
+    "app_code": "xfn7",
+    "app_label": "XFN 7 - Demand-to-Supply Synchronization",
+    "bundle_code": "xfn",
+    "source_md_path": "doc/rnd/plugs/xfn/xfn1.md"
+  },
+  {
+    "module_code": "xfn7_2",
+    "module_label": "XFN.7.2 - Supply Chain Coordination Logging",
+    "module_title": "Supply Chain Coordination Logging",
+    "module_slug": "supply_chain_coordination_logging",
+    "app_code": "xfn7",
+    "app_label": "XFN 7 - Demand-to-Supply Synchronization",
+    "bundle_code": "xfn",
+    "source_md_path": "doc/rnd/plugs/xfn/xfn1.md"
+  }
+]
